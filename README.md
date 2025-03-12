@@ -1,2 +1,2 @@
 # deva2007 g
-hi friends
+hi friends welcome to git
